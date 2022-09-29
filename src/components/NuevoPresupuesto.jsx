@@ -23,7 +23,7 @@ const NuevoPresupuesto = ({
     <div className="contenedor-presupuesto contendor sombra">
       <form onSubmit={handlePresupuesto} className="formulario">
         <div className="campo">
-          <label>Nuevo Presupuesto</label>
+          <label>Definir Presupuesto</label>
           <input 
             type="number" 
             className="nuevo-presupuesto" 
